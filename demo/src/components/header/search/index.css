@@ -1,0 +1,10 @@
+.search{
+    float: right;
+    width: 60%;
+    height: 24px;
+    margin-top: 12px;
+    text-align: left;
+    border: none;
+    border-radius: 4px;
+    text-indent:0.5em;
+}
